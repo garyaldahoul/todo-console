@@ -1,0 +1,17 @@
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/TodoConsole
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/TodoConsole.deps.json
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/TodoConsole.runtimeconfig.json
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/TodoConsole.dll
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/TodoConsole.pdb
+/Users/User/Projects/TodoConsole/TodoConsole/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.csproj.AssemblyReference.cache
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.AssemblyInfoInputs.cache
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.AssemblyInfo.cs
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.csproj.CoreCompileInputs.cache
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.csproj.CopyComplete
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.dll
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/refint/TodoConsole.dll
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.pdb
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/TodoConsole.genruntimeconfig.cache
+/Users/User/Projects/TodoConsole/TodoConsole/obj/Debug/net6.0/ref/TodoConsole.dll
